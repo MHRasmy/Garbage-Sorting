@@ -5,8 +5,8 @@
 * [Viewing-The-Project](#viewing-the-project)
 * [How-To-Run-The-Project](#How-to-run-the-project)
 
-# Garbage-Sorter
-[(Back to top)](#recycling-sorter)
+# Recycling-Sorter
+[(Back to top)](#recyclings-sorter)
 This is a an image classifier using the fastai library, trained to differentiate recyclable materials from the unrecyclable ones. The test achieved a high accuracy of 92%.
 
 # Project-File
