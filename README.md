@@ -22,5 +22,5 @@ Try using Jupyter Notebook Viewer to render the project with theses steps:
 ## How To Run The Project
 [(Back to top)](#How-to-run-the-project)
 1. Download **`GarbageSorter.ipynb`**
-2. Download the corresponding dataset [here](https://github.com/MHRasmy/Recycling-Storing/blob/main/dataset.rar) and move it to the same directory as the [prjectfile](Project-File)
+2. Download the corresponding dataset [here](https://github.com/MHRasmy/Recycling-Storing/blob/main/dataset.rar) and move it to the same directory as the [prjectfile](#project-file)
 3. Run the notebook in Anaconda
