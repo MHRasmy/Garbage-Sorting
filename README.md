@@ -7,7 +7,7 @@
 
 # Recycling-Sorter
 [(Back to top)](#recyclings-sorter)
-This is a an image classifier using the fastai library, trained to differentiate recyclable materials from the unrecyclable ones. The test achieved a high accuracy of 92%.
+This is a an image classifier using the fastai library, trained to differentiate recyclable materials from the unrecyclable ones. The test achieved an optimal accuracy of 77%.
 
 # Project-File
 [(Back to top)](#project-file)
