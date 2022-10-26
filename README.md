@@ -4,6 +4,7 @@
 * [Project-File](#project-file)
 * [Viewing-The-Project](#viewing-the-project)
 * [How-To-Run-The-Project](#How-to-run-the-project)
+* [Team Members](#team-members)
 
 # Recycling-Sorter
 [(Back to top)](#recyclings-sorter)
@@ -24,3 +25,10 @@ Try using Jupyter Notebook Viewer to render the project with theses steps:
 1. Download **`GarbageSorter.ipynb`**
 2. Download the corresponding dataset [here](https://github.com/MHRasmy/Recycling-Storing/blob/main/dataset.rar) and move it to the same directory as the [prjectfile](#project-file)
 3. Run the notebook in Anaconda
+
+## Team Members
+[(Back to top)](#recyclings-sorter)
+
+- [@Kshishtawy](https://github.com/Kshishtawy) 
+- [@MHRasmy](https://github.com/MHRasmy) 
+- [@Yousef M. Eldaly](https://github.com/YousefEldaly) 
